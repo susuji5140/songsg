@@ -1,0 +1,24 @@
+[33mcommit 2208438d0b7f9fc6c5707311beb8b29d8bfb6d2e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Merge: 8394149 92ddc20
+Author: 202407047 <ssgg5140@naver.com>
+Date:   Thu Jun 19 13:20:26 2025 +0900
+
+    hhhMerge branch 'second'
+
+[33mcommit 92ddc205f1a49f5f300ae0a6d4b2ad61eea68c6d[m[33m ([m[1;32msecond[m[33m)[m
+Author: 202407047 <ssgg5140@naver.com>
+Date:   Thu Jun 19 13:19:26 2025 +0900
+
+    hello
+
+[33mcommit 8394149dd893295a1bdd35ee58fe01050075a028[m[33m ([m[1;32mfirst[m[33m)[m
+Author: 202407047 <ssgg5140@naver.com>
+Date:   Thu Jun 19 13:17:40 2025 +0900
+
+    hi
+
+[33mcommit 9a870976b387773be1ef78bab03335f5fd70be41[m
+Author: 202407047 <ssgg5140@naver.com>
+Date:   Thu Jun 19 13:17:00 2025 +0900
+
+    hi
